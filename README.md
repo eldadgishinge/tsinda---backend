@@ -19,6 +19,13 @@ Tsinda  Backend is the server-side component of the driving theory learning plat
 
 [Link to Backend Repository](https://github.com/eldadgishinge/tsinda---backend)
 
+
+## zip file of the codes
+[zip file Links](https://drive.google.com/drive/folders/15QctyFl_tbyS5M-1hoLV5OvldnPvDNOG?usp=sharing)
+
+## Analysis, Discussion and Recommendations
+[Document Link](https://docs.google.com/document/d/19zLYx2t0Ld0fnlWVTC8SHBFNuDkKWyyfI6T1slZ6Xt0/edit?usp=sharing)
+
 ## Architecture Overview
 The backend follows the MVC (Model-View-Controller) architecture pattern:
 - Models: Mongoose schemas that define the data structure
